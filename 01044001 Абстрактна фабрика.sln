@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01044001 Абстрактна фабрика", "01044001 Абстрактна фабрика.vcxproj", "{EF7CC883-D72B-46F8-8728-399CE882DB55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7CC883-D72B-46F8-8728-399CE882DB55}.Debug|x64.ActiveCfg = Debug|x64
+		{EF7CC883-D72B-46F8-8728-399CE882DB55}.Debug|x64.Build.0 = Debug|x64
+		{EF7CC883-D72B-46F8-8728-399CE882DB55}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF7CC883-D72B-46F8-8728-399CE882DB55}.Debug|x86.Build.0 = Debug|Win32
+		{EF7CC883-D72B-46F8-8728-399CE882DB55}.Release|x64.ActiveCfg = Release|x64
+		{EF7CC883-D72B-46F8-8728-399CE882DB55}.Release|x64.Build.0 = Release|x64
+		{EF7CC883-D72B-46F8-8728-399CE882DB55}.Release|x86.ActiveCfg = Release|Win32
+		{EF7CC883-D72B-46F8-8728-399CE882DB55}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84058A30-6DC8-4B3D-B865-A03B3C9C8353}
+	EndGlobalSection
+EndGlobal
